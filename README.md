@@ -32,12 +32,14 @@ After execution, open the Excel file to verify the **Actual output** and **Statu
 
 ## Project Structure
 
+```
 ├── test_automation/
 │   ├── test_automation.py
 │   ├── Assignment 1 - Test cases.xlsx
 │   └── Commands.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Test Coverage
 
