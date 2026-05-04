@@ -12,7 +12,7 @@ Automated test suite for evaluating the accuracy of Chat Sinhala transliteration
 1. Clone the repository:
 ```bash
    git clone https://github.com/your-username/your-repo-name.git](https://github.com/navodyaJayathunga25/Playwright-Automation-Testing-Python.git
-   cd your-repo-name
+   cd Playwright-Automation-Testing-Python
 ```
 
 2. Install dependencies:
